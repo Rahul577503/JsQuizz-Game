@@ -1,4 +1,4 @@
-
+# Javascript Quiz-Game
 This is a JavaScript quiz game project that tests your knowledge of JavaScript concepts and features. The game presents a series of multiple-choice questions and provides instant feedback on your answers. It's a fun way to enhance your JavaScript skills and deepen your understanding of the language.
 
 
